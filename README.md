@@ -1,11 +1,3 @@
-<a href="https://beyonk.com">
-    <br />
-    <br />
-    <img src="https://user-images.githubusercontent.com/218949/144224348-1b3a20d5-d68e-4a7a-b6ac-6946f19f4a86.png" width="198" />
-    <br />
-    <br />
-</a>
-
 ## Svelte Social Auth
 
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com) [![svelte-v3](https://img.shields.io/badge/svelte-v3-blueviolet.svg)](https://svelte.dev) [![publish](https://github.com/beyonk-adventures/svelte-social-auth/actions/workflows/deploy.yml/badge.svg)](https://github.com/beyonk-adventures/svelte-social-auth/actions/workflows/deploy.yml)
